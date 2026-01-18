@@ -1,16 +1,69 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76B9A&center=true&width=600&lines=Hi+I'm+Sriram+R+%F0%9F%91%8B;AI+%26+Data+Science+Student;Front-end+Developer+%7C+Tech+Enthusiast;Aspiring+Technical+Leader" alt="Typing SVG" />
+</p>
 
-<!--
-**25-sriram/25-sriram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cite_start]🎓 **Undergraduate Student** [cite: 6]
+- [cite_start]🤖 **B.Tech Artificial Intelligence and Data Science** @ Sri Venkateswara College of Engineering (SVCE) 
+- [cite_start]📈 **CGPA: 9.16** [cite: 9]
+
+💻 **Front-end Developer** | 📊 **AI & DS Aspirant** | [cite_start]🚀 **Tech Co-ordinator** [cite: 11, 23]
+[cite_start]Driven 2nd-year student with hands-on experience in building responsive web interfaces[cite: 6, 15]. [cite_start]I aim to solve real-world challenges using data-driven insights while developing strong leadership and business skills[cite: 7, 41].
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🌐 Frontend & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🐍 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=25-sriram&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25-sriram&layout=compact&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/25-sriram?theme=radical&font=Fira%20Code" alt="LeetCode Stats" height="180" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sri-ram-r-7r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:shakthi.ram0713@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://leetcode.com/25-sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+---
+
+> [cite_start]*“Aspiring to excel in both technical and managerial domains.”* 🚀 [cite: 7]
