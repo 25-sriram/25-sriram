@@ -8,7 +8,6 @@
 
 🎓 **Undergraduate Student**
 - 🤖 **B.Tech Artificial Intelligence and Data Science** @ Sri Venkateswara College of Engineering (SVCE)
-- 📈 **CGPA: 9.16**
 
 💻 **Front-end Developer** | 📊 **AI & DS Aspirant** | 🚀 **Tech Co-ordinator**
 I am a driven 2nd-year undergraduate student in Artificial Intelligence and Data Science with hands-on experience in front-end development projects. I aim to solve real-world challenges using data-driven insights while developing strong leadership and business skills.
@@ -66,4 +65,4 @@ I am a driven 2nd-year undergraduate student in Artificial Intelligence and Data
 
 ---
 
-> *“Aspiring to excel in both technical and managerial domains.”* 🚀
+> *“Aspiring to excel in both technical and managerial domains.”* 
