@@ -7,8 +7,8 @@
 # 💫 About Me
 
 [cite_start]🎓 **Undergraduate Student** [cite: 6]
-- [cite_start]🤖 **B.Tech Artificial Intelligence and Data Science** @ Sri Venkateswara College of Engineering (SVCE) 
-- [cite_start]📈 **CGPA: 9.16** [cite: 9]
+- [cite_start]🤖 **B.Tech Artificial Intelligence and Data Science** @ Sri Venkateswara College of Engineering (SVCE) [cite: 8, 9]
+- [cite_start]📈 **CGPA: 9.16** 
 
 💻 **Front-end Developer** | 📊 **AI & DS Aspirant** | [cite_start]🚀 **Tech Co-ordinator** [cite: 11, 23]
 [cite_start]Driven 2nd-year student with hands-on experience in building responsive web interfaces[cite: 6, 15]. [cite_start]I aim to solve real-world challenges using data-driven insights while developing strong leadership and business skills[cite: 7, 41].
@@ -59,11 +59,11 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sri-ram-r-7r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:shakthi.ram0713@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://leetcode.com/25-sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sri-ram-r-7r" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shakthi.ram0713@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/25-sriram" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
 
-> [cite_start]*“Aspiring to excel in both technical and managerial domains.”* 🚀 [cite: 7]
+> [cite_start]*“Aspiring to excel in both technical and managerial domains.”* 🚀
