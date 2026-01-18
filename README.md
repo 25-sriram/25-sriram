@@ -6,12 +6,12 @@
 
 # 💫 About Me
 
-[cite_start]🎓 **Undergraduate Student** [cite: 6]
+[cite_start]🎓 **Undergraduate Student** [cite: 8]
 - [cite_start]🤖 **B.Tech Artificial Intelligence and Data Science** @ Sri Venkateswara College of Engineering (SVCE) [cite: 8, 9]
 - [cite_start]📈 **CGPA: 9.16** 
 
-💻 **Front-end Developer** | 📊 **AI & DS Aspirant** | [cite_start]🚀 **Tech Co-ordinator** [cite: 11, 23]
-[cite_start]Driven 2nd-year student with hands-on experience in building responsive web interfaces[cite: 6, 15]. [cite_start]I aim to solve real-world challenges using data-driven insights while developing strong leadership and business skills[cite: 7, 41].
+[cite_start]💻 **Front-end Developer** [cite: 11] | [cite_start]📊 **AI & DS Aspirant** [cite: 7, 8] | [cite_start]🚀 **Tech Co-ordinator** [cite: 23]
+[cite_start]I am a driven 2nd-year undergraduate student in Artificial Intelligence and Data Science with hands-on experience in front-end development projects[cite: 6]. [cite_start]I aim to solve real-world challenges using data-driven insights while developing strong leadership and business skills[cite: 7, 41].
 
 ---
 
@@ -46,8 +46,8 @@
 ## 📊 Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25-sriram&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25-sriram&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=25-sriram&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25-sriram&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
@@ -59,11 +59,11 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sri-ram-r-7r" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shakthi.ram0713@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://leetcode.com/25-sriram" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.linkedin.com/in/sri-ram-r-7r" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shakthi.ram0713@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://leetcode.com/25-sriram" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
 
-> [cite_start]*“Aspiring to excel in both technical and managerial domains.”* 🚀
+> [cite_start]*“Aspiring to excel in both technical and managerial domains.”* 🚀 [cite: 7]
