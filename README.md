@@ -50,7 +50,7 @@ I am a driven 2nd-year undergraduate student in Artificial Intelligence and Data
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/25-sriram?theme=radical&font=Fira%20Code" alt="LeetCode Stats" height="180" />
+  <img src="https://leetcard.jacoblin.cool/24-sriram?theme=radical&font=Fira%20Code" alt="LeetCode Stats" height="180" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ I am a driven 2nd-year undergraduate student in Artificial Intelligence and Data
 <p align="left">
 <a href="https://www.linkedin.com/in/sri-ram-r-7r" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shakthi.ram0713@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://leetcode.com/25-sriram" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://leetcode.com/24-sriram" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
